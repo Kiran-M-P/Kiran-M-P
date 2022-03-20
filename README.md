@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>  
-<h2 align="center">A Junior Full-Stack Developer from India</h2>  
+<h3 align="center">A Junior Full-Stack Developer from India</h3>  
 <br>
   
-### - ⚛️ I’m currently learning **react**  
+#### - ⚛️ I’m currently learning **react**  
   
-### - 🎨 Sucker for beautiful **UIs**
+#### - 🎨 Sucker for beautiful **UIs**
   
-### - 📸 Also I'm a **Photographer and Video creator.**  
+#### - 📸 Also I'm a **Photographer and Video creator.**  
 
 <br>
 <h3 align="left">Connect with me:</h3>  
